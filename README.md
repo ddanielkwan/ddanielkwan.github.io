@@ -12,7 +12,7 @@ I have a strong passion for learning new things and I have worked on a few proje
 ### Hobbies
 I have been into speed cubing for about two years and can solve a rubik's cube in under 30 seconds, I'm still trying to learn more algorithms to reduce my time and maybe join some competitions.
 
-![Rubik's Cube](/images/rubiks.jpg)
+![Rubik's Cube](/images/rubiks.jpg) ![Chess](/images/chess.PNG)
 
 
 ### Contact
