@@ -14,7 +14,9 @@ I have been into speed cubing for about two years and can solve a rubik's cube i
 
 ![Rubik's Cube](/images/rubiks.jpg) ![Chess](/images/chess.PNG)
 
-
+<p align="center">
+  <img src="https://github.com/ddanielkwan/ddanielkwan.github.io/blob/master/images/rubiks.jpg" alt="Rubiks"/>
+</p>
 ### Contact
 
 [Email](mailto:danielkwan2000@gmail.com)
